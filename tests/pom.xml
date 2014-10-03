@@ -27,13 +27,13 @@
   <parent>
     <groupId>org.apache.qpid</groupId>
     <artifactId>proton-project</artifactId>
-    <version>0.8.redhat-001-SNAPSHOT</version>
+    <version>0.8.redhat-001</version>
   </parent>
 
   <description>The Proton system tests execute against either the Java or the C implementations,
 based on the chosen profile.
 
-To execute, &quot;mvn test&quot;.
+To execute, "mvn test".
 
 Example of advanced usage (all of the -D flags are optional):
 
@@ -48,6 +48,7 @@ directory &lt;basedir&gt;/build/proton-c.</description>
 
   <scm>
     <url>http://svn.apache.org/viewvc/qpid/proton/</url>
+    <tag>proton-project-0.8.redhat-001</tag>
   </scm>
 
   <properties>

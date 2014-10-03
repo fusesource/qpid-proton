@@ -19,7 +19,7 @@
   <parent>
     <groupId>org.apache.qpid</groupId>
     <artifactId>proton-project</artifactId>
-    <version>0.8.redhat-001-SNAPSHOT</version>
+    <version>0.8.redhat-001</version>
     <relativePath>../../..</relativePath>
   </parent>
   <modelVersion>4.0.0</modelVersion>
@@ -37,5 +37,6 @@
 
   <scm>
     <url>http://svn.apache.org/viewvc/qpid/proton/</url>
+    <tag>proton-project-0.8.redhat-001</tag>
   </scm>
 </project>
